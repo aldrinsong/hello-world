@@ -1,2 +1,5 @@
 # hello-world
-training
+
+Hi Humans,
+
+This is aldrin song testing
